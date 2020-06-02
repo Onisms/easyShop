@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EasyShop:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4773e242-c42b-445d-95aa-af5c3f90caef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/EasyCodeConfig/easybuy-tax_test_bean.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/EasyCodeConfig/easybuy-testbean.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/277e1a15-b856-4d8c-83cf-10d3d8ab9fe6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/277e1a15-b856-4d8c-83cf-10d3d8ab9fe6/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/easyshop/dao/TestBeanDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/easyshop/entity/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/easyshop/service/TestBeanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/easyshop/service/impl/TestBeanServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/easyshop/web/controller/TestBeanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/testBean/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/testBean/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/testBean/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/com/easyshop/dao/TestBeanDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/com/easyshop/entity/TestBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/com/easyshop/service/TestBeanService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/com/easyshop/service/impl/TestBeanServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/com/easyshop/web/controller/TestBeanController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/asm-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/cglib-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/cglib-nodep-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/curvesapi-1.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/easyexcel-2.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/ehcache-3.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jsqlparser-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mybatis-plus-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mybatis-plus-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mybatis-plus-generate-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mybatis-plus-support-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/poi-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/poi-ooxml-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/slf4j-nop-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-aop-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-aspects-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-beans-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-context-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-core-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-expression-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-jcl-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-jdbc-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-orm-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-tx-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-web-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/spring-webmvc-5.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/pages/testBean/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/pages/testBean/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/pages/testBean/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/EasyShop/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/easyshop/dao/TestBeanDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/easyshop/entity/TestBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/easyshop/service/TestBeanService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/easyshop/service/impl/TestBeanServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/easyshop/web/controller/TestBeanController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="easybuy@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="easybuy@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="easybuy@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="easybuy: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="easybuy@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="easybuy: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tax_test_bean: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\IDEACode\EasyShop\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.5.4\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1ciWdTo4Ib4FQSwSS7ZPAAFisRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.easyshop.web.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEACode\EasyShop\src\main\webapp\WEB-INF\pages" />
+      <recent name="F:\IDEACode\EasyShop\src\main\webapp\WEB-INF" />
+      <recent name="F:\IDEACode\EasyShop\src\main\webapp" />
+      <recent name="F:\IDEACode\EasyShop\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="EasyShop:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_EasyShop" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7812" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EasyShop:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4773e242-c42b-445d-95aa-af5c3f90caef" name="Default Changelist" comment="" />
+      <created>1591011981795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591011981795</updated>
+      <workItem from="1591011991817" duration="4546000" />
+      <workItem from="1591062622486" duration="1512000" />
+      <workItem from="1591082175887" duration="479000" />
+      <workItem from="1591088847921" duration="1081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591063808094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591063808094" />
+    <state x="1175" y="298" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591063618705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1175" y="298" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591063618705" />
+    <state x="1175" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591063607888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1175" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591063607888" />
+    <state x="718" y="262" key="FileChooserDialogImpl" timestamp="1591089509293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591089509293" />
+    <state width="1294" height="361" key="GridCell.Tab.0.bottom" timestamp="1591089309234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591089309234" />
+    <state width="1294" height="361" key="GridCell.Tab.0.center" timestamp="1591089309233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591089309233" />
+    <state width="1294" height="361" key="GridCell.Tab.0.left" timestamp="1591089309233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591089309233" />
+    <state width="1294" height="361" key="GridCell.Tab.0.right" timestamp="1591089309233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591089309233" />
+    <state width="1294" height="214" key="GridCell.Tab.1.bottom" timestamp="1591089444820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="214" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591089444820" />
+    <state width="1294" height="214" key="GridCell.Tab.1.center" timestamp="1591089444820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="214" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591089444820" />
+    <state width="1294" height="214" key="GridCell.Tab.1.left" timestamp="1591089444820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="214" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591089444820" />
+    <state width="1294" height="214" key="GridCell.Tab.1.right" timestamp="1591089444820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="214" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591089444820" />
+    <state width="1294" height="361" key="GridCell.Tab.2.bottom" timestamp="1591089311516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591089311516" />
+    <state width="1294" height="361" key="GridCell.Tab.2.center" timestamp="1591089311516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591089311516" />
+    <state width="1294" height="361" key="GridCell.Tab.2.left" timestamp="1591089311516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591089311516" />
+    <state width="1294" height="361" key="GridCell.Tab.2.right" timestamp="1591089311516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="361" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591089311516" />
+    <state x="976" y="163" key="SettingsEditor" timestamp="1591018069698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="976" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591018069698" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1591012760360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1591012760360" />
+    <state x="676" y="166" width="627" height="708" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591013017646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="166" width="627" height="708" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591013017646" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1591012766421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591012766421" />
+  </component>
+</project>
